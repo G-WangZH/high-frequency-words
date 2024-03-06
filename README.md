@@ -2820,4 +2820,4 @@ e
 
 文字 文本
 
-### [参考链接](!https://htmlpreview.github.io/?https://raw.githubusercontent.com/Georgewgf/reciteWords/master/index.html)
+### [参考链接](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Georgewgf/reciteWords/master/index.html)
